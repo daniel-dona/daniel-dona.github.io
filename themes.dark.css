@@ -91,7 +91,7 @@ hr,
 
 /* Brand Typography */
 .t-title {
-  font-size: 4.8rem;
+  font-size: 4.0rem;
   line-height: 0.91;
 }
 
@@ -102,7 +102,7 @@ hr,
 
 .t-title__second-word {
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .t-sub-title {
